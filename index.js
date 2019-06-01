@@ -21,8 +21,6 @@ function iLoveTheBeatles(n) {
   var variable=[]
   do {
     variable.push("I love the Beatles!")
-//    console.log(n)
-//    console.log(variable)
     n++
   } while (n<15)
   return variable
